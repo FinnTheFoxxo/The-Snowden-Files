@@ -1,3 +1,4 @@
+!!!!!THIS IS AN UNFINISHED COLLECTION AND IT WILL BE POSTED WHEN IT IS FINISHED!!!!!
 # The Ultimate Collection of Snowden Documents.
 
 This collection serves as a solution to a problem, a problem of availability. The 2013 disclosures of mass surveillance and the disclosures in the following years, have been scattered around the internet in a disorganized fashion since their release. No single source or collection contains every document - this repository serves as a solution to this problem.
